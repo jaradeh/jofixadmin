@@ -1,0 +1,25 @@
+.img-80, .w-80px {
+    width: 80px;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+.fa-home {
+    margin-right: 15px !important;
+}
+.summary{
+    padding:15px;
+}
+.help-block{
+    color:red !important;
+}
+.removeAssignedQoutation{
+    padding-left:20px;
+    cursor: pointer;
+}
+.addAssignedQoutation{
+    cursor: pointer;
+}
+.no_padding{
+    padding-left:0px !important;
+    padding-right:0px !important;
+}
